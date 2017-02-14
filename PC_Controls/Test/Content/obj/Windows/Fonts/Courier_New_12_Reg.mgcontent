@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>K:/Visual Studio 2013 Projects/PC_Controls/Test/Content/Fonts/Courier_New_12_Reg.spritefont</SourceFile>
+  <SourceTime>2017-02-04T06:37:56.685474-05:00</SourceTime>
+  <DestFile>K:/Visual Studio 2013 Projects/PC_Controls/Test/Content/bin/Windows/Fonts/Courier_New_12_Reg.xnb</DestFile>
+  <DestTime>2017-02-11T04:43:28.7925253-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-01-23T17:57:28-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-01-23T17:57:28-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
